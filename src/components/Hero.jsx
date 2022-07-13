@@ -24,9 +24,9 @@ const Hero = () => {
           </button>
           <button className=" btn2 m-2 font-[600]">Become a Vendor</button>
         </div>
-        <div className="absolute  border-2 border-[#ffffff] rounded-[18px] w-[55px] h-[71px] left-[350px] md:left-[691px] top-[200px] md:top-[240px]">
+        {/* <div className="absolute  border-2 border-[#ffffff] rounded-[18px] w-[55px] h-[71px] left-[350px] md:left-[691px] top-[200px] md:top-[240px]">
           <div className="tran z-10 absolute border-2 border-white w-[32px] h-[0px] left-[10px] top-[35px] "></div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
