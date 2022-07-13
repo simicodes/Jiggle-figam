@@ -42,7 +42,7 @@ const Navbar = () => {
         <div
           className={
             toggleMenu
-              ? "w-full h-full  text-white absolute top-[90px] left-0 flex justify-center text-center"
+              ? "w-full h-full   text-white absolute top-[90px] left-0 flex justify-center text-center"
               : "absolute left-[-100%]"
           }
         >

@@ -9,10 +9,24 @@
   --primary-color: #1EA6CC;
 }
 
+/* .rb{
+box-sizing: border-box;
+width: 55px;
+height: 71px;
+left: 691px;
+top: 851px;
+
+border: 3px solid red;
+border-radius: 10px;
+} */
+
 .login {
   @apply bg-gradient-to-r from-[var(--back-ground)] to-[var(--back-ground)] py-2 px-6;
 }
 
+.tran{
+  transform: matrix(0, 1, 1, 0, 0, 0);
+}
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
 
 @layer base {
